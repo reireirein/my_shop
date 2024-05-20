@@ -31,7 +31,7 @@ if (!empty($_SESSION['my_shop']['cart_items'])) {
 
 // 購入後のメッセージを表示する例
 echo "購入が完了しました。ありがとうございます！";
-
+echo "aaa";
 // 他のページにリダイレクトする場合
 // header('Location: another_page.php');
-?>aaa
+?>
