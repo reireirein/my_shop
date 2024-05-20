@@ -34,4 +34,4 @@ echo "購入が完了しました。ありがとうございます！";
 
 // 他のページにリダイレクトする場合
 // header('Location: another_page.php');
-?>
+?>aaa
